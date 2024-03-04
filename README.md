@@ -1,4 +1,4 @@
-Hi! My name is Hasnain Fatmi
+Hi! It's Hasnain
 =====================================================================================================================================
 
 I’m a beginner programmer doing BSCS from FAST Lahore,Pakistan
