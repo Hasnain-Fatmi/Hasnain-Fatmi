@@ -1,4 +1,4 @@
-Hi! It's Hasnain
+Hi! I'm Hasnain
 =====================================================================================================================================
 
 I’m a beginner programmer doing BSCS from FAST Lahore,Pakistan
