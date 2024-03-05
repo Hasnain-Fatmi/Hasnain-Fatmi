@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Vertical Center Image</title>
-<style>
-  body, html {
-    height: 100%;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
-</head>
-<body>
+
   <img src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" alt="Full Stack Developer GIF">
-</body>
-</html>
+
 
 
 <h1 align="middle">Hi! 👋 I'm Hasnain</h1>
