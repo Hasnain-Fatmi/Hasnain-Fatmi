@@ -1,5 +1,4 @@
-
-    <img src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" alt="Full Stack Developer GIF" />
+<img src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" alt="Full Stack Developer GIF" />
 
 <h1 align="middle">Hi! 👋 I'm Hasnain</h1>
 <h2 align="middle">Junior Developer Embarking on the Coding Journey</h2>
