@@ -1,4 +1,5 @@
-<p align="middle">Hi! I'm Hasnain</p>
+<h1 align="middle">Hi! I'm Hasnain</h1>
+
 =====================================================================================================================================
 
 I’m a beginner programmer doing BSCS from FAST Lahore,Pakistan
