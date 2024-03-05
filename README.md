@@ -1,8 +1,8 @@
 <h1 align="middle">Hi! 👋 I'm Hasnain</h1>
-
+<h2 align="middle">Junior Developer Embarking on the Coding Journey</h2>
 ============================================================================================================================================================================
 
-I’m a beginner programmer doing BSCS from FAST Lahore,Pakistan
+I’m a 6th semester student doing BSCS from FAST Lahore,Pakistan
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [l211773@lhr.nu.edu.pk](mailto:l211773@lhr.nu.edu.pk)
