@@ -5,7 +5,7 @@ I’m a beginner programmer doing BSCS from FAST Lahore,Pakistan
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [l211773@lhr.nu.edu.pk](mailto:l211773@lhr.nu.edu.pk)
-* 🧠  I'm learning Python, Java and C++
+* 🧠  I'm currently learning Full Stack Development and Machine Learning
 * 👨‍💻 All of my projects are available at https://github.com/Hasnain-Fatmi/Hasnain-Fatmi
 * 🤝  I'm open to collaborating on any interesting projects
 * 🙂 I am excited to see where my passion for programming takes me in the future.
