@@ -1,4 +1,4 @@
-https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif
+[https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif](https://camo.githubusercontent.com/)
 
 <h1 align="middle">Hi! 👋 I'm Hasnain</h1>
 <h2 align="middle">Junior Developer Embarking on the Coding Journey</h2>
