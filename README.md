@@ -1,5 +1,5 @@
 <h1 align="middle">Hi! 👋 I'm Hasnain</h1>
-<h2 align="middle">Junior Developer Embarking on the Coding Journey</h2>
+<h2 align="middle">I’m a Computer Science student at Fast University and a beginner developer</h2>
 ============================================================================================================================================================================
 
 <p align="middle">I’m a 6th semester student doing BSCS from FAST Lahore, Pakistan</p>
