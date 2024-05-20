@@ -5,7 +5,7 @@
 <p align="middle">I’m a 6th semester student doing BSCS from FAST Lahore, Pakistan</p>
 
 * 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [l211773@lhr.nu.edu.pk](mailto:hasnainfatmi22@gmail.com)
+* ✉️  You can contact me at [hasnainfatmi22@gmail.com](mailto:hasnainfatmi22@gmail.com)
 * 🧠  I'm currently learning Full Stack Development and Machine Learning
 * 👨‍💻 All of my projects are available at https://github.com/Hasnain-Fatmi/Hasnain-Fatmi
 * 🤝  I'm open to collaborating on any interesting projects
