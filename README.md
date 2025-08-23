@@ -1,12 +1,10 @@
 <h1 align="middle">Hi! 👋 I'm Hasnain</h1>
-<h2 align="middle">I’m a Computer Science student at Fast University and a beginner developer</h2>
+<h2 align="middle">I’m a Computer Science Graduate From Fast University and a Software developer</h2>
 ============================================================================================================================================================================
-
-<p align="middle">I’m a 6th semester student doing BSCS from FAST Lahore, Pakistan</p>
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [hasnainfatmi22@gmail.com](mailto:hasnainfatmi22@gmail.com)
-* 🧠  I'm currently learning Full Stack Development and Machine Learning
+* 🧠  I'm currently learning AI and Machine Learning
 * 👨‍💻 All of my projects are available at https://github.com/Hasnain-Fatmi/Hasnain-Fatmi
 * 🤝  I'm open to collaborating on any interesting projects
 * 🙂 I am excited to see where my passion for programming takes me in the future.
