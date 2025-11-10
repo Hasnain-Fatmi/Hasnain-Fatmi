@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;AI+%26+ML+Enthusiast;CS+Graduate+%40+FAST+University;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-fatimi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hasnain-fatmi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnainfatmi22@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -77,7 +77,7 @@ me.say_hi()
 **I'm always excited to collaborate on interesting projects!**
 
 📧 **Email:** hasnainfatmi22@gmail.com  
-💼 **LinkedIn:** [Hasnain Fatimi](https://www.linkedin.com/in/hasnain-fatimi)  
+💼 **LinkedIn:** [Hasnain Fatimi](www.linkedin.com/in/hasnain-fatmi)  
 👨‍💻 **GitHub:** [Explore my repositories](https://github.com/Hasnain-Fatmi?tab=repositories)
 
 </div>
