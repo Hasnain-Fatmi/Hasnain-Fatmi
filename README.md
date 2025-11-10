@@ -1,32 +1,98 @@
-<h1 align="middle">Hi! 👋 I'm Hasnain</h1>
-<h2 align="middle">I’m a Computer Science Graduate From Fast University and a Software developer</h2>
-============================================================================================================================================================================
+<div align="center">
 
-* 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [hasnainfatmi22@gmail.com](mailto:hasnainfatmi22@gmail.com)
-* 🧠  I'm currently learning AI and Machine Learning
-* 👨‍💻 All of my projects are available at https://github.com/Hasnain-Fatmi/Hasnain-Fatmi
-* 🤝  I'm open to collaborating on any interesting projects
-* 🙂 I am excited to see where my passion for programming takes me in the future.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="80" />
 
-<a href="https://www.github.com/Hasnain-Fatmi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Hasnain-Fatmi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+# Hi, I'm Hasnain Fatimi
 
-### Languages and Tools
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;AI+%26+ML+Enthusiast;CS+Graduate+%40+FAST+University;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-fatimi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnainfatmi22@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/bexilixx)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="36" height="36" alt="Linux" /></a></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
+</div>
 
-### Connect with me
+---
 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100005400136286" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Hasnain-Fatmi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/hasnain-fatimi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/bexilixx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" /> About Me
 
-### Profile Badges
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<b>My GitHub Stats</b>
+```python
+class Hasnain:
+    def __init__(self):
+        self.location = "Lahore, Pakistan 🇵🇰"
+        self.education = "CS @ FAST University"
+        self.role = "Software Developer"
+        self.learning = ["AI", "ML", "Deep Learning"]
+        self.interests = ["Coding", "Innovation"]
+        self.open_to = "Collaborations"
+    
+    def say_hi(self):
+        print("Let's build something amazing!")
 
-<a href="http://www.github.com/Hasnain-Fatmi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnain-Fatmi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+me = Hasnain()
+me.say_hi()
+```
 
-<a href="https://github.com/Hasnain-Fatmi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain-Fatmi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br clear="right"/>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,php" />
+
+### Frameworks & Databases
+<img src="https://skillicons.dev/icons?i=django,mysql,postgresql,git,linux,mongodb,fastapi,redis,next,flask,react,angular" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" /> GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnain-Fatmi&theme=tokyonight&hide_border=true&stroke=0891B2&ring=0891B2&fire=0891B2" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats-beta-seven-24.vercel.app/api?username=Hasnain-Fatmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=0891B2&title_color=0891B2" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats-beta-seven-24.vercel.app/api/top-langs/?username=Hasnain-Fatmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=0891B2&count_private=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Mail" width="35" /> Let's Connect!
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="200" />
+
+**I'm always excited to collaborate on interesting projects!**
+
+📧 **Email:** hasnainfatmi22@gmail.com  
+💼 **LinkedIn:** [Hasnain Fatimi](https://www.linkedin.com/in/hasnain-fatimi)  
+🐦 **Twitter:** [@bexilixx](https://www.x.com/bexilixx)  
+👨‍💻 **GitHub:** [Explore my repositories](https://github.com/Hasnain-Fatmi?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="25" /> Thanks for visiting! Let's build something amazing together!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=75" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hasnain-Fatmi&color=0891b2&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/Hasnain-Fatmi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Hasnain-Fatmi)
+
+</div>
