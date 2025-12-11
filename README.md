@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="80" />
 
-# Hi, I'm Hasnain Fatimi
+# Hi, I'm Hasnain Fatmi
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;AI+%26+ML+Enthusiast;CS+Graduate+%40+FAST+University;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 
