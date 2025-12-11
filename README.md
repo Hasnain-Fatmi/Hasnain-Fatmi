@@ -52,22 +52,6 @@ me.say_hi()
 
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" /> GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnain-Fatmi&theme=tokyonight&hide_border=true&stroke=0891B2&ring=0891B2&fire=0891B2" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats-beta-seven-24.vercel.app/api?username=Hasnain-Fatmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=0891B2&title_color=0891B2" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats-beta-seven-24.vercel.app/api/top-langs/?username=Hasnain-Fatmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=0891B2&count_private=true" alt="Top Languages" />
-
-</div>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Mail" width="35" /> Let's Connect!
 
 <div align="center">
